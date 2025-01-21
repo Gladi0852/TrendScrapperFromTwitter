@@ -30,7 +30,10 @@ Download the zip file and extract
 6.     email = "twitter username or email"
 7.     password = "twitter_password"
 8.     your_username = "twitter_username"
-9.     mongo_url = "your_url"
+9.     mongo_url = "your_mongo_atlas_url"
+
+10. create a database named = "ScrappingTwitter"
+11. and collection named = "trending_topics"
 
 Now you are good to go. run the python server using - python app.py
 
